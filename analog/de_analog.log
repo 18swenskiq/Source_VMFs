@@ -1,0 +1,114 @@
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading H:\DriveBackup\Maps\analog\de_analog.vmf
+Map revision 193
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing H:\DriveBackup\Maps\analog\de_analog.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124506 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 276 texinfos to 192
+Reduced 14 texdatas to 14 (312 bytes to 312)
+Writing H:\DriveBackup\Maps\analog\de_analog.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+24 threads
+reading h:\drivebackup\maps\analog\de_analog.bsp
+reading h:\drivebackup\maps\analog\de_analog.prt
+ 394 portalclusters
+1018 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 361 visible clusters (0.00%)
+Total clusters visible: 36703
+Average clusters visible: 93
+Building PAS...
+Average clusters audible: 353
+visdatasize:38310  compressed from 44128
+writing h:\drivebackup\maps\analog\de_analog.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog.bsp
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+1801 faces
+333371 square feet [48005544.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 static prop patches
+1801 patches before subdivision
+30711 patches after subdivision
+680 direct lights
+0...1...2..
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading H:\DriveBackup\Maps\analog\de_analog.vmf
+Map revision 193
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing H:\DriveBackup\Maps\analog\de_analog.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124506 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 276 texinfos to 192
+Reduced 14 texdatas to 14 (312 bytes to 312)
+Writing H:\DriveBackup\Maps\analog\de_analog.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+24 threads
+reading h:\drivebackup\maps\analog\de_analog.bsp
+reading h:\drivebackup\maps\analog\de_analog.prt
+ 394 portalclusters
+1018 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 362 visible clusters (0.00%)
+Total clusters visible: 36706
+Average clusters visible: 93
+Building PAS...
+Average clusters audible: 353
+visdatasize:38310  compressed from 44128
+writing h:\drivebackup\maps\analog\de_analog.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog.bsp', but we don't own that location. Allowing...
+0 seconds elapsed

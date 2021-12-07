@@ -1,0 +1,9 @@
+Gongji was what I consider my first "real" 5v5 map I ever made. I really challenged myself on this and at the time was
+pretty happy with the project. There are obviously things I would have done very differently in hindsight, but it is what it is.
+This is effectively the map that caused me to start teaching myself how to 3d model, which nowadays feels like my most
+honed skill in level design/env art.
+
+This map was made for the Mapcore Exotic Places mapping contest. The contest version is (I believe) de_gongji.vmf, while the 
+layout rework I did for the Mapcore Hubs is called de_gongji_reborn.vmf.
+
+Gongji reborn workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=1930485028

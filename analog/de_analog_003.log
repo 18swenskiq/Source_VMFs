@@ -1,0 +1,1554 @@
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 271
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (141889 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 274 texinfos to 199
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 418 portalclusters
+1112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8768 visible clusters (0.00%)
+Total clusters visible: 97678
+Average clusters visible: 233
+Building PAS...
+Average clusters audible: 418
+visdatasize:45653  compressed from 46816
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+1845 faces
+333308 square feet [47996356.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1845 patches before subdivision
+31681 patches after subdivision
+704 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1460984, max 274
+transfer lists:  11.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(160230, 163797, 137303)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30005, 30115, 24632)
+Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 426 (66% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                383/8192         4596/98304    ( 4.7%) 
+brushsides            2347/81920       18776/655360   ( 2.9%) 
+planes                 816/65536       16320/1310720  ( 1.2%) 
+vertexes              2828/65536       33936/786432   ( 4.3%) 
+nodes                  872/65536       27904/2097152  ( 1.3%) 
+texinfos               199/12288       14328/884736   ( 1.6%) 
+texdata                 15/4096          480/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1845/65536      103320/3670016  ( 2.8%) 
+hdr faces             1845/65536      103320/3670016  ( 2.8%) 
+origfaces             1111/65536       62216/3670016  ( 1.7%) 
+facebrushes            574/0            1148/0        ( 0.0%) 
+facebrushlists        1845/0            7380/0        ( 0.0%) 
+leaves                 877/65536       28064/2097152  ( 1.3%) 
+leaffaces             2093/65536        4186/131072   ( 3.2%) 
+leafbrushes            863/65536        1726/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13108/512000      52432/2048000  ( 2.6%) 
+edges                 7729/256000      30916/1024000  ( 3.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        704/8192        70400/819200   ( 8.6%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            155/32768        1550/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2673/65536        5346/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/1024         5280/360448   ( 1.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1402320/0        ( 0.0%) 
+visdata               [variable]       45653/16777216 ( 0.3%) 
+entdata               [variable]       85551/393216   (21.8%) 
+LDR ambient table      877/65536        3508/262144   ( 1.3%) 
+HDR ambient table      877/65536        3508/262144   ( 1.3%) 
+LDR leaf ambient       877/65536       24556/1835008  ( 1.3%) 
+HDR leaf ambient      4038/65536      113064/1835008  ( 6.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/21784    ( 0.0%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]      141889/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4964
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+52 seconds elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 272
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (141889 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 274 texinfos to 199
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 418 portalclusters
+1112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8768 visible clusters (0.00%)
+Total clusters visible: 97678
+Average clusters visible: 233
+Building PAS...
+Average clusters audible: 418
+visdatasize:45653  compressed from 46816
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+1845 faces
+333308 square feet [47996356.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1845 patches before subdivision
+31681 patches after subdivision
+704 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1460984, max 274
+transfer lists:  11.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(160230, 163797, 137303)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30005, 30115, 24632)
+Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 426 (66% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                383/8192         4596/98304    ( 4.7%) 
+brushsides            2347/81920       18776/655360   ( 2.9%) 
+planes                 816/65536       16320/1310720  ( 1.2%) 
+vertexes              2828/65536       33936/786432   ( 4.3%) 
+nodes                  872/65536       27904/2097152  ( 1.3%) 
+texinfos               199/12288       14328/884736   ( 1.6%) 
+texdata                 15/4096          480/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1845/65536      103320/3670016  ( 2.8%) 
+hdr faces             1845/65536      103320/3670016  ( 2.8%) 
+origfaces             1111/65536       62216/3670016  ( 1.7%) 
+facebrushes            574/0            1148/0        ( 0.0%) 
+facebrushlists        1845/0            7380/0        ( 0.0%) 
+leaves                 877/65536       28064/2097152  ( 1.3%) 
+leaffaces             2093/65536        4186/131072   ( 3.2%) 
+leafbrushes            863/65536        1726/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13108/512000      52432/2048000  ( 2.6%) 
+edges                 7729/256000      30916/1024000  ( 3.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        704/8192        70400/819200   ( 8.6%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            155/32768        1550/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2673/65536        5346/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/1024         5280/360448   ( 1.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1402320/0        ( 0.0%) 
+visdata               [variable]       45653/16777216 ( 0.3%) 
+entdata               [variable]       85599/393216   (21.8%) 
+LDR ambient table      877/65536        3508/262144   ( 1.3%) 
+HDR ambient table      877/65536        3508/262144   ( 1.3%) 
+LDR leaf ambient       877/65536       24556/1835008  ( 1.3%) 
+HDR leaf ambient      4038/65536      113064/1835008  ( 6.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/21784    ( 0.0%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]      141889/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4964
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+55 seconds elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 303
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (147881 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 276 texinfos to 201
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 420 portalclusters
+1102 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8817 visible clusters (0.00%)
+Total clusters visible: 109249
+Average clusters visible: 260
+Building PAS...
+Average clusters audible: 420
+visdatasize:47682  compressed from 47040
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 320
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (155929 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 296 texinfos to 203
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+7 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 432 portalclusters
+1130 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 718 visible clusters (0.00%)
+Total clusters visible: 53444
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 423
+visdatasize:46214  compressed from 48384
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_street\police_barricade.vtf
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 320
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (155929 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 296 texinfos to 203
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+7 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 432 portalclusters
+1130 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 718 visible clusters (0.00%)
+Total clusters visible: 53446
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 423
+visdatasize:46214  compressed from 48384
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_street\police_barricade.vtf
+1927 faces
+338329 square feet [48719440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 static prop patches
+1927 patches before subdivision
+32653 patches after subdivision
+768 direct lights
+0...1..
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 321
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (155929 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 296 texinfos to 203
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+7 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 432 portalclusters
+1130 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 719 visible clusters (0.00%)
+Total clusters visible: 53447
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 423
+visdatasize:46214  compressed from 48384
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_street\police_barricade.vtf
+1927 faces
+338329 square feet [48719440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 static prop patches
+1927 patches before subdivision
+32653 patches after subdivision
+768 direct lights
+0.
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 322
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (156537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 296 texinfos to 203
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 434 portalclusters
+1133 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9500 visible clusters (0.00%)
+Total clusters visible: 120974
+Average clusters visible: 278
+Building PAS...
+Average clusters audible: 434
+visdatasize:50917  compressed from 48608
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+1928 faces
+338329 square feet [48719440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1928 patches before subdivision
+32654 patches after subdivision
+768 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1475327, max 273
+transfer lists:  11.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(171065, 174540, 145939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32344, 32434, 26496)
+Build Patch/Sample Hash Table(s).....Done<0.0066 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                424/8192         5088/98304    ( 5.2%) 
+brushsides            2593/81920       20744/655360   ( 3.2%) 
+planes                 884/65536       17680/1310720  ( 1.3%) 
+vertexes              3053/65536       36636/786432   ( 4.7%) 
+nodes                  910/65536       29120/2097152  ( 1.4%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 15/4096          480/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1928/65536      107968/3670016  ( 2.9%) 
+hdr faces             1928/65536      107968/3670016  ( 2.9%) 
+origfaces             1178/65536       65968/3670016  ( 1.8%) 
+facebrushes            581/0            1162/0        ( 0.0%) 
+facebrushlists        1928/0            7712/0        ( 0.0%) 
+leaves                 915/65536       29280/2097152  ( 1.4%) 
+leaffaces             2175/65536        4350/131072   ( 3.3%) 
+leafbrushes            925/65536        1850/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13768/512000      55072/2048000  ( 2.7%) 
+edges                 8157/256000      32628/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        768/8192        76800/819200   ( 9.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            153/32768        1530/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2670/65536        5340/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/1024         5280/360448   ( 1.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1439936/0        ( 0.0%) 
+visdata               [variable]       50917/16777216 ( 0.3%) 
+entdata               [variable]       95455/393216   (24.3%) 
+LDR ambient table      915/65536        3660/262144   ( 1.4%) 
+HDR ambient table      915/65536        3660/262144   ( 1.4%) 
+LDR leaf ambient       915/65536       25620/1835008  ( 1.4%) 
+HDR leaf ambient      4350/65536      121800/1835008  ( 6.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24300    ( 0.0%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]      156537/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 5190
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+59 seconds elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 323
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (156537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 296 texinfos to 203
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 434 portalclusters
+1133 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9500 visible clusters (0.00%)
+Total clusters visible: 120974
+Average clusters visible: 278
+Building PAS...
+Average clusters audible: 434
+visdatasize:50917  compressed from 48608
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+1928 faces
+338329 square feet [48719440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1928 patches before subdivision
+32654 patches after subdivision
+768 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1474977, max 273
+transfer lists:  11.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(171032, 174507, 145912)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32331, 32422, 26486)
+Build Patch/Sample Hash Table(s).....Done<0.0084 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                424/8192         5088/98304    ( 5.2%) 
+brushsides            2593/81920       20744/655360   ( 3.2%) 
+planes                 884/65536       17680/1310720  ( 1.3%) 
+vertexes              3053/65536       36636/786432   ( 4.7%) 
+nodes                  910/65536       29120/2097152  ( 1.4%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 15/4096          480/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1928/65536      107968/3670016  ( 2.9%) 
+hdr faces             1928/65536      107968/3670016  ( 2.9%) 
+origfaces             1178/65536       65968/3670016  ( 1.8%) 
+facebrushes            581/0            1162/0        ( 0.0%) 
+facebrushlists        1928/0            7712/0        ( 0.0%) 
+leaves                 915/65536       29280/2097152  ( 1.4%) 
+leaffaces             2175/65536        4350/131072   ( 3.3%) 
+leafbrushes            925/65536        1850/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13768/512000      55072/2048000  ( 2.7%) 
+edges                 8157/256000      32628/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        768/8192        76800/819200   ( 9.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            153/32768        1530/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2670/65536        5340/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/1024         5280/360448   ( 1.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1439936/0        ( 0.0%) 
+visdata               [variable]       50917/16777216 ( 0.3%) 
+entdata               [variable]       95455/393216   (24.3%) 
+LDR ambient table      915/65536        3660/262144   ( 1.4%) 
+HDR ambient table      915/65536        3660/262144   ( 1.4%) 
+LDR leaf ambient       915/65536       25620/1835008  ( 1.4%) 
+HDR leaf ambient      4350/65536      121800/1835008  ( 6.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24380    ( 0.0%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]      156537/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 5190
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+59 seconds elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 325
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (156865 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 296 texinfos to 203
+Reduced 15 texdatas to 15 (338 bytes to 338)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+7 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 435 portalclusters
+1135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 732 visible clusters (0.00%)
+Total clusters visible: 54787
+Average clusters visible: 125
+Building PAS...
+Average clusters audible: 426
+visdatasize:47037  compressed from 48720
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_street\police_barricade.vtf
+1931 faces
+338055 square feet [48680016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 static prop patches
+1931 patches before subdivision
+32619 patches after subdivision
+768 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1674329, max 289
+transfer lists:  12.8 megs
+static prop patch transfers 0
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(174654, 178125, 148544)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(33051, 33222, 27145)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(6364, 6416, 5241)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1403, 1413, 1153)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(306, 309, 253)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(70, 70, 57)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(16, 16, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                425/8192         5100/98304    ( 5.2%) 
+brushsides            2599/81920       20792/655360   ( 3.2%) 
+planes                 886/65536       17720/1310720  ( 1.4%) 
+vertexes              3060/65536       36720/786432   ( 4.7%) 
+nodes                  913/65536       29216/2097152  ( 1.4%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 15/4096          480/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1931/65536      108136/3670016  ( 2.9%) 
+hdr faces             1931/65536      108136/3670016  ( 2.9%) 
+origfaces             1176/65536       65856/3670016  ( 1.8%) 
+facebrushes            592/0            1184/0        ( 0.0%) 
+facebrushlists        1931/0            7724/0        ( 0.0%) 
+leaves                 918/65536       29376/2097152  ( 1.4%) 
+leaffaces             2173/65536        4346/131072   ( 3.3%) 
+leafbrushes            927/65536        1854/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13772/512000      55088/2048000  ( 2.7%) 
+edges                 8162/256000      32648/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        768/8192        76800/819200   ( 9.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            154/32768        1540/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2697/65536        5394/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/1024         5280/360448   ( 1.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1438296/0        ( 0.0%) 
+visdata               [variable]       47037/16777216 ( 0.3%) 
+entdata               [variable]       95455/393216   (24.3%) 
+LDR ambient table      918/65536        3672/262144   ( 1.4%) 
+HDR ambient table      918/65536        3672/262144   ( 1.4%) 
+LDR leaf ambient       918/65536       25704/1835008  ( 1.4%) 
+HDR leaf ambient      4325/65536      121100/1835008  ( 6.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24068    ( 0.0%) 
+pakfile               [variable]     3973894/0        ( 0.0%) 
+physics               [variable]      156865/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 5196
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+19 minutes, 24 seconds elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 327
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44176 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 74 texinfos to 40
+Reduced 7 texdatas to 7 (132 bytes to 132)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+7 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+  70 portalclusters
+ 151 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 2986
+Average clusters visible: 42
+Building PAS...
+Average clusters audible: 69
+visdatasize:1825  compressed from 2240
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+436 faces
+194516 square feet [28010348.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 static prop patches
+436 patches before subdivision
+12360 patches after subdivision
+34 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 373461, max 261
+transfer lists:   2.8 megs
+static prop patch transfers 0
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(36548, 38005, 32799)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4988, 5111, 4344)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(938, 953, 798)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(200, 202, 168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(44, 44, 37)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 10, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides             715/81920        5720/655360   ( 0.9%) 
+planes                 436/65536        8720/1310720  ( 0.7%) 
+vertexes               761/65536        9132/786432   ( 1.2%) 
+nodes                  188/65536        6016/2097152  ( 0.3%) 
+texinfos                40/12288        2880/884736   ( 0.3%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  436/65536       24416/3670016  ( 0.7%) 
+hdr faces              436/65536       24416/3670016  ( 0.7%) 
+origfaces              269/65536       15064/3670016  ( 0.4%) 
+facebrushes            257/0             514/0        ( 0.0%) 
+facebrushlists         436/0            1744/0        ( 0.0%) 
+leaves                 191/65536        6112/2097152  ( 0.3%) 
+leaffaces              489/65536         978/131072   ( 0.7%) 
+leafbrushes            280/65536         560/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3158/512000      12632/2048000  ( 0.6%) 
+edges                 1991/256000       7964/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         34/8192         3400/819200   ( 0.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           699/65536        1398/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      557604/0        ( 0.0%) 
+visdata               [variable]        1825/16777216 ( 0.0%) 
+entdata               [variable]       11626/393216   ( 3.0%) 
+LDR ambient table      191/65536         764/262144   ( 0.3%) 
+HDR ambient table      191/65536         764/262144   ( 0.3%) 
+LDR leaf ambient       191/65536        5348/1835008  ( 0.3%) 
+HDR leaf ambient       791/65536       22148/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7322     ( 0.0%) 
+pakfile               [variable]     1430692/0        ( 0.0%) 
+physics               [variable]       44176/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1205
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+1 minute, 14 seconds elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 330
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-2265.00 -400.00 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (154769 bytes)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-152.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-536.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-728.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-920.00, -408.00, -8.00)
+Static prop models/props_vehicles/deliveryvan_glass.mdl outside the map (240.00, -432.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-344.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, -40.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 104.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 248.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 392.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 536.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 680.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 824.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, -40.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 104.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 248.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 680.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 824.00, 0.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 291 texinfos to 203
+Reduced 15 texdatas to 15 (341 bytes to 341)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+LoadPortals: couldn't read h:\drivebackup\maps\analog\de_analog_003.prt
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 330
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-2265.00 -400.00 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (154769 bytes)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-152.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-536.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-728.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-920.00, -408.00, -8.00)
+Static prop models/props_vehicles/deliveryvan_glass.mdl outside the map (240.00, -432.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (-344.00, -408.00, -8.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, -40.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 104.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 248.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 392.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 536.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 680.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1727.00, 824.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, -40.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 104.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 248.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 680.00, 0.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon02.mdl outside the map (1475.00, 824.00, 0.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 291 texinfos to 203
+Reduced 15 texdatas to 15 (341 bytes to 341)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 331
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (156865 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 297 texinfos to 204
+Reduced 16 texdatas to 16 (359 bytes to 359)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 435 portalclusters
+1135 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9382 visible clusters (0.00%)
+Total clusters visible: 121879
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 435
+visdatasize:51089  compressed from 48720
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+1930 faces
+338264 square feet [48710152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1930 patches before subdivision
+32620 patches after subdivision
+776 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1472161, max 273
+transfer lists:  11.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(173679, 176564, 147140)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32813, 32817, 26752)
+Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                425/8192         5100/98304    ( 5.2%) 
+brushsides            2599/81920       20792/655360   ( 3.2%) 
+planes                 888/65536       17760/1310720  ( 1.4%) 
+vertexes              3060/65536       36720/786432   ( 4.7%) 
+nodes                  913/65536       29216/2097152  ( 1.4%) 
+texinfos               204/12288       14688/884736   ( 1.7%) 
+texdata                 16/4096          512/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1930/65536      108080/3670016  ( 2.9%) 
+hdr faces             1930/65536      108080/3670016  ( 2.9%) 
+origfaces             1175/65536       65800/3670016  ( 1.8%) 
+facebrushes            591/0            1182/0        ( 0.0%) 
+facebrushlists        1930/0            7720/0        ( 0.0%) 
+leaves                 918/65536       29376/2097152  ( 1.4%) 
+leaffaces             2173/65536        4346/131072   ( 3.3%) 
+leafbrushes            927/65536        1854/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13764/512000      55056/2048000  ( 2.7%) 
+edges                 8159/256000      32636/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        776/8192        77600/819200   ( 9.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            154/32768        1540/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2691/65536        5382/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                17/1024         5984/360448   ( 1.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1460124/0        ( 0.0%) 
+visdata               [variable]       51089/16777216 ( 0.3%) 
+entdata               [variable]       98060/393216   (24.9%) 
+LDR ambient table      918/65536        3672/262144   ( 1.4%) 
+HDR ambient table      918/65536        3672/262144   ( 1.4%) 
+LDR leaf ambient       918/65536       25704/1835008  ( 1.4%) 
+HDR leaf ambient      4317/65536      120876/1835008  ( 6.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24152    ( 0.0%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]      156865/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 5194
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+1 minute, 1 second elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\analog\de_analog_003.vmf
+Map revision 332
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing h:\drivebackup\maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157225 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 297 texinfos to 204
+Reduced 16 texdatas to 16 (359 bytes to 359)
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 436 portalclusters
+1137 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9543 visible clusters (0.00%)
+Total clusters visible: 122333
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 436
+visdatasize:51407  compressed from 48832
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+1934 faces
+337918 square feet [48660232.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1934 patches before subdivision
+32632 patches after subdivision
+776 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1470294, max 273
+transfer lists:  11.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(174316, 177196, 147648)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32945, 32948, 26857)
+Build Patch/Sample Hash Table(s).....Done<0.0076 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                426/8192         5112/98304    ( 5.2%) 
+brushsides            2605/81920       20840/655360   ( 3.2%) 
+planes                 890/65536       17800/1310720  ( 1.4%) 
+vertexes              3068/65536       36816/786432   ( 4.7%) 
+nodes                  916/65536       29312/2097152  ( 1.4%) 
+texinfos               204/12288       14688/884736   ( 1.7%) 
+texdata                 16/4096          512/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1934/65536      108304/3670016  ( 3.0%) 
+hdr faces             1934/65536      108304/3670016  ( 3.0%) 
+origfaces             1177/65536       65912/3670016  ( 1.8%) 
+facebrushes            591/0            1182/0        ( 0.0%) 
+facebrushlists        1934/0            7736/0        ( 0.0%) 
+leaves                 921/65536       29472/2097152  ( 1.4%) 
+leaffaces             2178/65536        4356/131072   ( 3.3%) 
+leafbrushes            929/65536        1858/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13792/512000      55168/2048000  ( 2.7%) 
+edges                 8176/256000      32704/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        776/8192        77600/819200   ( 9.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            154/32768        1540/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2691/65536        5382/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                17/1024         5984/360448   ( 1.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1459716/0        ( 0.0%) 
+visdata               [variable]       51407/16777216 ( 0.3%) 
+entdata               [variable]       98060/393216   (24.9%) 
+LDR ambient table      921/65536        3684/262144   ( 1.4%) 
+HDR ambient table      921/65536        3684/262144   ( 1.4%) 
+LDR leaf ambient       921/65536       25788/1835008  ( 1.4%) 
+HDR leaf ambient      4332/65536      121296/1835008  ( 6.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24158    ( 0.0%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]      157225/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 5206
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+1 minute, 0 seconds elapsed
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading H:\DriveBackup\Maps\analog\de_analog_003.vmf
+Map revision 335
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing H:\DriveBackup\Maps\analog\de_analog_003.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157225 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 297 texinfos to 204
+Reduced 16 texdatas to 16 (359 bytes to 359)
+Writing H:\DriveBackup\Maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading h:\drivebackup\maps\analog\de_analog_003.bsp
+reading h:\drivebackup\maps\analog\de_analog_003.prt
+ 436 portalclusters
+1137 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 720 visible clusters (0.00%)
+Total clusters visible: 54912
+Average clusters visible: 125
+Building PAS...
+Average clusters audible: 427
+visdatasize:46936  compressed from 48832
+writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\analog\de_analog_003.bsp
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_street\police_barricade.vtf
+1934 faces
+337926 square feet [48661448.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 static prop patches
+1934 patches before subdivision
+32632 patches after subdivision
+776 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1663430, max 288
+transfer lists:  12.7 megs
+static prop patch transfers 0
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(176172, 179162, 149027)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(33233, 33361, 27236)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(6396, 6449, 5270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1404, 1415, 1156)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(305, 309, 253)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(69, 70, 57)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(16, 16, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0218 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+282 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                426/8192         5112/98304    ( 5.2%) 
+brushsides            2605/81920       20840/655360   ( 3.2%) 
+planes                 890/65536       17800/1310720  ( 1.4%) 
+vertexes              3068/65536       36816/786432   ( 4.7%) 
+nodes                  916/65536       29312/2097152  ( 1.4%) 
+texinfos               204/12288       14688/884736   ( 1.7%) 
+texdata                 16/4096          512/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1934/65536      108304/3670016  ( 3.0%) 
+hdr faces             1934/65536      108304/3670016  ( 3.0%) 
+origfaces             1177/65536       65912/3670016  ( 1.8%) 
+facebrushes            591/0            1182/0        ( 0.0%) 
+facebrushlists        1934/0            7736/0        ( 0.0%) 
+leaves                 921/65536       29472/2097152  ( 1.4%) 
+leaffaces             2178/65536        4356/131072   ( 3.3%) 
+leafbrushes            929/65536        1858/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13792/512000      55168/2048000  ( 2.7%) 
+edges                 8176/256000      32704/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        776/8192        77600/819200   ( 9.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            154/32768        1540/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2691/65536        5382/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                17/1024         5984/360448   ( 1.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1459940/0        ( 0.0%) 
+visdata               [variable]       46936/16777216 ( 0.3%) 
+entdata               [variable]       98060/393216   (24.9%) 
+LDR ambient table      921/65536        3684/262144   ( 1.4%) 
+HDR ambient table      921/65536        3684/262144   ( 1.4%) 
+LDR leaf ambient       921/65536       25788/1835008  ( 1.4%) 
+HDR leaf ambient      4341/65536      121548/1835008  ( 6.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24490    ( 0.0%) 
+pakfile               [variable]     4170510/0        ( 0.0%) 
+physics               [variable]      157225/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 5206
+Writing h:\drivebackup\maps\analog\de_analog_003.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_003.bsp', but we don't own that location. Allowing...
+22 minutes, 54 seconds elapsed

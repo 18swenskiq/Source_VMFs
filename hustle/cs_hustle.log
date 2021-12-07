@@ -1,0 +1,150 @@
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading h:\drivebackup\maps\hustle\cs_hustle.vmf
+Map revision 91
+Material not found!: REALWORLDTEXTURES2/METAL/FLOOR/METAL_06
+Patching WVT material: maps/cs_hustle/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 236 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing h:\drivebackup\maps\hustle\cs_hustle.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (415127 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 870 texinfos to 590
+Reduced 32 texdatas to 29 (888 bytes to 748)
+Writing h:\drivebackup\maps\hustle\cs_hustle.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\hustle\cs_hustle.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+24 threads
+reading h:\drivebackup\maps\hustle\cs_hustle.bsp
+reading h:\drivebackup\maps\hustle\cs_hustle.prt
+ 666 portalclusters
+1951 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 809 visible clusters (0.00%)
+Total clusters visible: 147799
+Average clusters visible: 221
+Building PAS...
+Average clusters audible: 515
+visdatasize:102523  compressed from 117216
+writing h:\drivebackup\maps\hustle\cs_hustle.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\hustle\cs_hustle.bsp', but we don't own that location. Allowing...
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading h:\drivebackup\maps\hustle\cs_hustle.bsp
+Loaded alpha texture materials\models\props\de_nuke\hr_nuke\chainlink_fence_001\chainlink_fence_wire_001_mip0.vtf
+Loaded alpha texture materials\Dev\dev_measurerails01.vtf
+4477 faces
+2 degenerate faces
+1413238 square feet [203506368.00 square inches]
+19 Displacements
+17206 Square Feet [2477704.50 Square Inches]
+0 static prop patches
+4475 patches before subdivision
+71103 patches after subdivision
+46 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4684117, max 935
+transfer lists:  35.7 megs
+static prop patch transfers 0
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(226818, 229873, 255027)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27964, 27807, 29502)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4283, 4234, 4436)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(772, 755, 777)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(153, 148, 151)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(32, 31, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(7, 7, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0131 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/1024          960/49152    ( 2.0%) 
+brushes               1055/8192        12660/98304    (12.9%) 
+brushsides            8605/81920       68840/655360   (10.5%) 
+planes                5880/65536      117600/1310720  ( 9.0%) 
+vertexes              7055/65536       84660/786432   (10.8%) 
+nodes                 1700/65536       54400/2097152  ( 2.6%) 
+texinfos               590/12288       42480/884736   ( 4.8%) 
+texdata                 29/4096          928/131072   ( 0.7%) 
+dispinfos               19/0            3344/0        ( 0.0%) 
+disp_verts            1539/0           30780/0        ( 0.0%) 
+disp_tris             2432/0            4864/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       44016/0           44016/0        ( 0.0%) 
+faces                 4477/65536      250712/3670016  ( 6.8%) 
+hdr faces             4477/65536      250712/3670016  ( 6.8%) 
+origfaces             3141/65536      175896/3670016  ( 4.8%) 
+facebrushes            952/0            1904/0        ( 0.0%) 
+facebrushlists        4477/0           17908/0        ( 0.0%) 
+leaves                1721/65536       55072/2097152  ( 2.6%) 
+leaffaces             5076/65536       10152/131072   ( 7.7%) 
+leafbrushes           1919/65536        3838/131072   ( 2.9%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges            34521/512000     138084/2048000  ( 6.7%) 
+edges                21418/256000      85672/1024000  ( 8.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         46/8192         4600/819200   ( 0.6%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            433/32768        4330/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8421/65536       16842/131072   (12.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 5/1024         1760/360448   ( 0.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3425164/0        ( 0.0%) 
+visdata               [variable]      102523/16777216 ( 0.6%) 
+entdata               [variable]       26834/393216   ( 6.8%) 
+LDR ambient table     1721/65536        6884/262144   ( 2.6%) 
+HDR ambient table     1721/65536        6884/262144   ( 2.6%) 
+LDR leaf ambient      1721/65536       48188/1835008  ( 2.6%) 
+HDR leaf ambient      7986/65536      223608/1835008  (12.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/14080    ( 0.0%) 
+pakfile               [variable]     2292401/0        ( 0.0%) 
+physics               [variable]      415127/4194304  ( 9.9%) 
+physics terrain       [variable]        1093/1048576  ( 0.1%) 
+
+Level flags = 7e
+
+Total triangle count: 12807
+Writing h:\drivebackup\maps\hustle\cs_hustle.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\hustle\cs_hustle.bsp', but we don't own that location. Allowing...
+1 minute, 51 seconds elapsed

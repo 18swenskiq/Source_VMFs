@@ -1,0 +1,8 @@
+Belagerung was a map I made after being inspired by Neuschwanstein when I visited Germany. I was extremely proud of this map at the time,
+and to be honest looking back at it now, I do think it was pretty impressive that I actually finished a project of this size with how
+inexperienced I was. Seeking some help on some technical stuff for this map is what led me to join the Source Engine discord, and the overall
+mapping community at-large. For all intents and purposes, this is where my mapping career really got pushed to the next level.
+
+Also: the optimization on this map is awful
+
+Belagerung workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=1432353371

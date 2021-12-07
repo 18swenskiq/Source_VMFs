@@ -1,0 +1,49 @@
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading H:\DriveBackup\Maps\analog\de_analog_004.vmf
+Map revision 346
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing H:\DriveBackup\Maps\analog\de_analog_004.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 305 texinfos to 210
+Reduced 15 texdatas to 15 (332 bytes to 332)
+Writing H:\DriveBackup\Maps\analog\de_analog_004.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_004.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+24 threads
+reading h:\drivebackup\maps\analog\de_analog_004.bsp
+reading h:\drivebackup\maps\analog\de_analog_004.prt
+ 449 portalclusters
+1174 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1186 visible clusters (0.00%)
+Total clusters visible: 62249
+Average clusters visible: 138
+Building PAS...
+Average clusters audible: 446
+visdatasize:51367  compressed from 57472
+writing h:\drivebackup\maps\analog\de_analog_004.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'h:\drivebackup\maps\analog\de_analog_004.bsp', but we don't own that location. Allowing...
+0 seconds elapsed

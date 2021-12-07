@@ -1,0 +1,14 @@
+The Spooky Manor was a map I made for the Source Engine Discord wingman contest in 2018. I put a ton of work into this, and challenged
+myself a ton which led me to learning so much over the course of this project. It also taught me to actually test layouts, as this
+played awfully and ranked really really low for gameplay. After this map though, I got inspired to work on bigger projects and collaborate
+for the first time.
+
+In late 2019, about a year after the contest, I felt the need to prove to myself that I could make it a lot better. I do feel like I succeeded in
+this when I turned it into a wingman hostage map and redid a lot of the art. Its not perfect but it is CLEARLY much improved over the contest 
+version, just showing how much knowledge I gained in a year.
+
+This folder contains the original beta which was probably last saved a few months before the deadline (wm_halloween), the contest version (de_spookymanor),
+and the hostage version (cs_spookymanor)
+
+The Spooky Manor (Contest Version): https://steamcommunity.com/sharedfiles/filedetails/?id=1557885050
+The Spooky Manor (Hostage Version): https://steamcommunity.com/sharedfiles/filedetails/?id=1894849022
